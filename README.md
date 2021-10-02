@@ -1,2 +1,2 @@
 # SklearnFramework
-My framework for ML using Pytorch, no jupyter notebooks!
+My framework for ML using Sklearn, no jupyter notebooks!
